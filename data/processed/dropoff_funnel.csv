@@ -1,0 +1,25 @@
+segment,stage_order,stage,users,conversion_from_signup,dropoff_rate_from_signup
+All Users,1,Signed up,2500,1.0,0.0
+All Users,2,Completed onboarding,1871,0.7484,0.2516
+All Users,3,First key action,1264,0.5056,0.4944
+All Users,4,Became active,2490,0.996,0.004
+Email,1,Signed up,260,1.0,0.0
+Email,2,Completed onboarding,194,0.7462,0.2538
+Email,3,First key action,124,0.4769,0.5231
+Email,4,Became active,260,1.0,0.0
+Organic Search,1,Signed up,862,1.0,0.0
+Organic Search,2,Completed onboarding,644,0.7471,0.2529
+Organic Search,3,First key action,429,0.4977,0.5023
+Organic Search,4,Became active,859,0.9965,0.0035
+Paid Search,1,Signed up,542,1.0,0.0
+Paid Search,2,Completed onboarding,397,0.7325,0.2675
+Paid Search,3,First key action,253,0.4668,0.5332
+Paid Search,4,Became active,541,0.9982,0.0018
+Referral,1,Signed up,425,1.0,0.0
+Referral,2,Completed onboarding,361,0.8494,0.1506
+Referral,3,First key action,279,0.6565,0.3435
+Referral,4,Became active,425,1.0,0.0
+Social,1,Signed up,411,1.0,0.0
+Social,2,Completed onboarding,275,0.6691,0.3309
+Social,3,First key action,179,0.4355,0.5645
+Social,4,Became active,405,0.9854,0.0146
